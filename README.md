@@ -1,6 +1,6 @@
-# JC | Linux & Cybersecurity Enthusiast
+# Jean-Claude | Linux, AI & Cybersecurity Enthusiast
 
-I'm a technically-minded IT and cybersecurity enthusiast focused on Linux,
+I'm a technically-minded IT, AI and cybersecurity enthusiast focused on Linux,
 system administration, networking, automation, and security.
 
 I enjoy building practical tools, experimenting with Linux systems,
